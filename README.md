@@ -1,6 +1,6 @@
 # Refactored Node.js App for MVC
 
-Name: Chua, Unisse C.
+Name: Dizon, Michaela Nicole P.
 
 ## View All Students
 
